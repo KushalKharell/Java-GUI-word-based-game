@@ -464,7 +464,7 @@ class Player{ //player class that takes just the name and sets the score as well
 
 }
 
-class Operations{ //operation class adds person to an arraylist, (maybe it can set the score as well , but lets see)
+/*class Operations{ //operation class adds person to an arraylist, (maybe it can set the score as well , but lets see)
     ArrayList<Player> PlayerList = new ArrayList<Player>();
 
     public void AddPlayer(Player one){
@@ -494,7 +494,7 @@ class Operations{ //operation class adds person to an arraylist, (maybe it can s
     // we should run the entire program in catch block
     //and if it works for try block we should call this function.
     //this this take in the file as well
-    public void CheckFileExists(Scanner File){
+    /*public void CheckFileExists(Scanner File){
         //so when this is called the file does already exists
         String name, score, panelNumber;
 
@@ -506,8 +506,8 @@ class Operations{ //operation class adds person to an arraylist, (maybe it can s
 
         //depending on panel num we call that also make a person class for the name
         //and add the score accordingly.
-    }
-}
+    }*/
+
 
 
 
